@@ -1,1 +1,32 @@
-# family
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>myfamily</title>
+</head>
+<body>
+<main><h1>My Family</h1>
+  <article>
+    <h2>My First Born Son </h2>
+    <p>name : anas khalid mamoun</p>
+    <p>age : 23 months </p>
+    <p>
+    </p>
+    <img src="anas.jpg"  alt="my first born son"> 
+  </article>
+<article>
+<h2>My Second Born Son </h2>
+<p>name : moaz khalid mamoun</p>
+<p>age : 6 months</p>
+<p></p>
+<img src="moaz.jpg"  alt="my second born son">>
+<img src="moazweeks.jpg" alt="moaz as a new born">>
+</article>
+</main>
+<footer>
+    <p>visit <a href="https://www.facebook.com/eng.khalid.nugud"> facebook </a>
+    </p>
+</footer>
+</body>
+</html>
